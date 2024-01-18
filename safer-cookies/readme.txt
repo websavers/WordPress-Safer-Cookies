@@ -13,6 +13,8 @@ Normally when you login to your blog WordPress will create a session cookie that
 
 Use this plugin if you have a static IP. If you have a dynamic IP address and it changes often you will get logged out frequently.
 
+WARNING: If you have a frequently changing dynamic IP or use a VPN or Proxy service, please don't install this. You'll be logged out of WP constantly.
+
 A bit more info can be obtained from the [Safer Cookies homepage](http://w-shadow.com/blog/2008/07/12/safer-cookies-plugin-for-wordpress/ "Safer Cookies homepage")
 
 == Installation ==
