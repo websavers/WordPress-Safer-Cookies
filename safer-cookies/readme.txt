@@ -1,9 +1,9 @@
 === Safer Cookies ===
-Contributors: whiteshadow
+Contributors: whiteshadow, websavers
 Tags: cookie, session, admin, login, security
-Requires at least: 2.5
-Tested up to: 2.9
-Stable tag: 1.2
+Requires at least: 2.7
+Tested up to: 6.4.2
+Stable tag: 2.0
 
 Ties the WP session cookie to your IP address so that it can't be used to get access to you blog from another computer.
 
@@ -16,6 +16,9 @@ Use this plugin if you have a static IP. If you have a dynamic IP address and it
 A bit more info can be obtained from the [Safer Cookies homepage](http://w-shadow.com/blog/2008/07/12/safer-cookies-plugin-for-wordpress/ "Safer Cookies homepage")
 
 == Installation ==
+
+Tip: you may not be able to upload this via the WordPress plugin installer because web application firewalls
+might intercept it as malicious. That means you should upload via your control panel file manager or SFTP/FTPS.
 
 To install the plugin follow these steps :
 
